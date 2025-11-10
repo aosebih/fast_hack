@@ -10,3 +10,8 @@ print('first push test change of today to test more')
 
 
 #hada change fi khater sebih
+
+for i in range(10) do{
+    print('sebih oussama')
+    
+}
